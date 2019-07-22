@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Marvel</string>
+    <!--Questions-->
+    <string name="question1">"What is the name of Thor’s hammer?"</string>
+    <string name="question2">MCU has</string>
+    <string name="question3">Which planet are Thor and the Hulk on in Thor: Ragnarok?</string>
+    <string name="question4">What Nazi organization infiltrated SHIELD?</string>
+    <string name="question5">Where did Scott Lang work before becoming Ant-Man?</string>
+
+
+    <!--Answers for question1-->
+    <string name="q1Incorrect1">"Balder"</string>
+    <string name="q1Incorrect2">"Aesir"</string>
+    <string name="q1Incorrect3">"Vanir"</string>
+    <string name="q1correct">"mjolnir"</string>
+
+    <!--Answer for question2-->
+    <string name="q2correct1">"Thor"</string>
+    <string name="q2correct2">"Antman"</string>
+    <string name="q2correct3">"Hulk"</string>
+    <string name="q2Incorrect">"Batman"</string>
+
+
+    <!--Answer for question3-->
+    <string name="q3correct">"Sakaar"</string>
+
+    <!--Answer for question4-->
+    <string name="q4correct1">"HYDRA"</string>
+    <string name="q4Incorrect1">"EMPUSA"</string>
+    <string name="q4Incorrect2">"CHIMERA"</string>
+    <string name="q4Incorrect3">"SPHINX"</string>
+
+    <!--Answer for question5-->
+    <string name="q5Incorrect1">"KFC"</string>
+    <string name="q5Incorrect2">"McDonald's"</string>
+    <string name="q5correct">"Baskin RObbins"</string>
+    <string name="q5Incorrect3">Jamba Juice </string>
+
+</resources>
+
+
